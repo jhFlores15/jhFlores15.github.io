@@ -1,4 +1,0 @@
-Contactar
-==========
-
-[gimmick:Disqus](pbpsys)
