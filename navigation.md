@@ -1,24 +1,14 @@
-# PBPsys
+# jhFlores15
 
-[Inicio](bienvenidos.md)
+[Inicio](Archivo.md)
 
-[Proyectos]()
-
-  * [Licencia](gplv3.md)
+[Titulo]()
+  * # titulo
+  * [subtitulo](proyectos/archivo.md)
   - - - -
-  * # Paginas Webs
-  * [IfTux](proyectos/iftux.md)
-  - - - -
-  * # Softwares
-  * [NoteIf](proyectos/noteif.md)
-  * [DDistrox](proyectos/ddistrox.md)
-
-[Videos](tubeteca.md)
-
-[Contactar](contactar.md)
+  * # titulo
+  * [subtitulo](proyectos/archivo.md)
 
 <!-- set a default theme -->
-[gimmick:theme](cosmo)
+[gimmick:theme](flatly)
 
-<!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](https://github.com/iftux/pbpsys)
